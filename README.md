@@ -105,6 +105,7 @@ See <tt>es_tweets.py</tt> for the required mapping
 N.B. Twitter’s language classification metadata is available in the archive beginning on [March 26, 2013](https://developer.twitter.com/en/docs/tweets/data-dictionary/guides/tweet-timeline.html).
 Nevertheless, the 'lang' field appears in tweets as early as December 2012. 
 
+A collection of high quality news-related hashtagged tweets is available for 15.07.2015-24.05.2017 at [https://doi.org/10.6084/m9.figshare.7932422](https://doi.org/10.6084/m9.figshare.7932422).
 
 # Input
 The expected format is text file where each line is [JSON object](https://www.w3schools.com/js/js_json_objects.asp) of a document that needs to be tagged.
